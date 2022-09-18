@@ -1,1 +1,4 @@
 *__pycache__
+migrations
+*.pytest_cache
+pyproject.toml
